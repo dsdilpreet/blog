@@ -1,2 +1,2 @@
 # blog
-Blog Code for https://dsdilpreet.blogger.com
+Blog Code for https://dsdilpreet.blogspot.com
