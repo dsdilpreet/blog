@@ -6,4 +6,5 @@
  <code>app.py</code> - This program creates a CSV file when launched and then saves the time logged in that file.<br>
  <code>weekly.py</code> - This program creates automatically creates a new CSV file weekly and only saves the time logged in that week. This is paticularly useful if you want to automate your timesheets.
  
- <h3>Detailed Explanation:</h3><br>
+ <h4>Detailed Explanation:</h4><br>
+ https://dsdilpreet.blogspot.com/2018/05/track-time-spent-on-activity.html
